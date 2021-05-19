@@ -54,3 +54,4 @@ static/.webassets-cache/
 .env
 
 sendgrid.env
+/loganalyzer.db
